@@ -6,6 +6,7 @@ version = 4
 name = "WindowManager"
 version = "0.1.0"
 dependencies = [
+ "input",
  "smithay",
 ]
 
@@ -614,6 +615,7 @@ dependencies = [
  "bitflags 2.13.2",
  "input-sys",
  "libc",
+ "log",
  "udev",
 ]
 
