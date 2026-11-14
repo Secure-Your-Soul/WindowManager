@@ -13,3 +13,4 @@ smithay = { version = "0.7", features = [
     "backend_libinput",
     "renderer_gl"
 ] }
+input = "0.9"
